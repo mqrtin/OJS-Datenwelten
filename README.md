@@ -12,7 +12,7 @@ Für Publikationen aus den Bereichen **Forschungsdaten** und **Open bzw. FAIR Da
 
 Hier findet ihr das Journal:
 
-{% embed url="https://journals.ub.uni-koeln.de/index.php/dw" %}
+url="https://journals.ub.uni-koeln.de/index.php/dw"
 
 ## Wichtige Einstellungen
 
