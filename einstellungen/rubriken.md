@@ -27,9 +27,8 @@ Neben den Pflichtfeldern Titel und Abkürzung lässt sich eine optionale Beschre
 
 Jeder Rubrik lassen sich ein oder mehrere Rubrikeditoren zuweisen.
 
-{% hint style="info" %}
+ hint style=
 Fügt man einer Rubrik einen Editor hinzu, wird eine Einreichung an ihn weitergereicht.
-{% endhint %}
 
 
 
